@@ -1,2 +1,0 @@
-# citius
-Treinador de corrida
